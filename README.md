@@ -1,4 +1,4 @@
-halospot
-========
+The HaloSpot project.
+=====================
 
-Halospot project
+This is the official repo for the HaloSpot porject, here you will find the API's and other stuff.
